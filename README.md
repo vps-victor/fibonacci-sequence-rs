@@ -20,3 +20,4 @@ Go into the repository and run the project `cargo run`
 
 # Next Steps
 - [ ] Improve input number size (current limit = 91)
+- [ ] Resolve duplicated error handler message
